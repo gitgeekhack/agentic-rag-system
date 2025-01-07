@@ -1,4 +1,4 @@
-# sarvam-programming-assignment
+# agentic-rag-system
 Agentic AI-Powered Query Service
 
 
